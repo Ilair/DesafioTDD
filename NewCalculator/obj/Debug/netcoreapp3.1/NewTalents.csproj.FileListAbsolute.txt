@@ -1,0 +1,14 @@
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\bin\Debug\netcoreapp3.1\NewTalents.exe
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\bin\Debug\netcoreapp3.1\NewTalents.dll
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\bin\Debug\netcoreapp3.1\NewTalents.pdb
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\obj\Debug\netcoreapp3.1\NewTalents.csproj.AssemblyReference.cache
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\obj\Debug\netcoreapp3.1\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\obj\Debug\netcoreapp3.1\NewTalents.dll
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\obj\Debug\netcoreapp3.1\NewTalents.pdb
+D:\Cursos\Curso_DigitalInnovation\DesafioTDD\NewCalculator\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache

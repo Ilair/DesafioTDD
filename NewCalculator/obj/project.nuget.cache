@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ObssPx5DzRLsKI5Q+iPk5uqOXlMbUrdH4yh5tHYFzZOXogBv2M81wpTwHANbc/b65IeWonqeKA+Gr2vpPImJQ==",
+  "success": true,
+  "projectFilePath": "D:\\Cursos\\Curso_DigitalInnovation\\DesafioTDD\\NewCalculator\\NewTalents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
